@@ -15,7 +15,7 @@ public class Soat2 {
             j=(i+30)/30;
             s=b*1/6;
             c=(a-30)/11*10;
-     //       if (c>60){ c=c-(j-2)*60;}
+           // if (c>60){ c=c-(j-2)*60;}
 
             //System.out.println(j+":"+s+"   "+b );
             System.out.println(j+":"+form2.format(s)+":"+form2.format(c)+"    "+form1.format(b)+" grdus");
