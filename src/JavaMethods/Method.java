@@ -13,5 +13,4 @@ public class Method {
         Method method = new Method();
         method.Metod2();
     }
-
 }

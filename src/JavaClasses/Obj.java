@@ -3,13 +3,13 @@ package JavaClasses;
 public class Obj {
     //
     public static void main(String[] args) {
-        Num vnum = new Num();
+      /*  Num vnum = new Num();
         int s = vnum.y +1;
         for (int i=1; i<=10; i++){
             s+=i;
 
         } System.out.println("s="+ s);
-
+*/
 
         int k=1;
         int summToq=0;
@@ -19,14 +19,14 @@ public class Obj {
                 summToq+=k;
             System.out.print(k+"     ");
             }else
-            {System.out.println(k);b+=k;}
+            {System.out.println(k); summToq+=k;}
             k++;
 
         }
-        System.out.println(" 1 dan 10 gacha bo'lgan juft sonlar yig'indisi="+a);
-        System.out.println(" 1 dan 10 gacha bo'lgan toq sonlar yig'indisi="+b);
+        System.out.println(" 1 dan 10 gacha bo'lgan juft sonlar yig'indisi="+sumJuft);
+        System.out.println(" 1 dan 10 gacha bo'lgan toq sonlar yig'indisi="+summToq);
 
-            System.out.println(vnum.x);
-        System.out.println(s);
+           // System.out.println(vnum.x);
+        //System.out.println(s);
     }
 }
