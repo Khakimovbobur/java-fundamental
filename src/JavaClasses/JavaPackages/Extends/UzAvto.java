@@ -8,4 +8,5 @@ public class UzAvto {
     public void GMmethod(){
         System.out.println("pip pip!");
     }
+
 }

@@ -5,9 +5,9 @@ public class MethodKordinata {
         //
         if ((x12-x11)==(y12-y11)&&(x22-x21)==(y22-y21)){
             System.out.println("mumkin");
-            if ((x21>x12)&&(y21-y12)){
-                System.out.println("0");
-            }
+//            if ((y21 - y12) && (x21 > x12)){
+//                System.out.println("0");
+//            }
             //
             if (x12==x21 || y12==y21 || x11==x22 || y11==y22){
                 System.out.println("1");
