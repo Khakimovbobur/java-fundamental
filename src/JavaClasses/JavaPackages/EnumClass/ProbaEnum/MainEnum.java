@@ -1,4 +1,6 @@
-package JavaClasses.JavaPackages.EnumClass;
+package JavaClasses.JavaPackages.EnumClass.ProbaEnum;
+
+import JavaClasses.JavaPackages.EnumClass.ProbaEnum.FirstEnum;
 
 public class MainEnum {
     //

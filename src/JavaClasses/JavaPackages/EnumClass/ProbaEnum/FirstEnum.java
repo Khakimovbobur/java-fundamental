@@ -1,4 +1,4 @@
-package JavaClasses.JavaPackages.EnumClass;
+package JavaClasses.JavaPackages.EnumClass.ProbaEnum;
 
 public enum FirstEnum {
     DUSHANBA,
