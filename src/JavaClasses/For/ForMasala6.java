@@ -3,7 +3,7 @@ package JavaClasses.For;
 import java.util.Scanner;
 
 public class ForMasala6 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {        // TUGAMAGANNNNNNNNNNNNNNNNNNNNNNNN!!!!!!!!!!!
         //
         Scanner obj = new Scanner(System.in);
 
